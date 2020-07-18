@@ -7,4 +7,4 @@ include_directories(.)
 include_directories(src)
 
 add_executable(CPPCS
-        src/numerical_methods/Exercise_01.cpp)
+        src/numerical_methods/Exercise_02.cpp)
