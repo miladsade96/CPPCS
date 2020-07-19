@@ -9,5 +9,8 @@
 using namespace std;
 
 int main(){
-
+#pragma omp parallel
+    {
+        cout << "HelloWorld!";
+};
 }
