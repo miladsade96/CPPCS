@@ -4,7 +4,7 @@
 
 // importing relevant libraries
 #include <iostream>
-#include <omp.h>
+#include "omp.h"
 
 using namespace std;
 
