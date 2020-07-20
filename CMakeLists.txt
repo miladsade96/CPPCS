@@ -7,4 +7,4 @@ include_directories(.)
 include_directories(src)
 
 add_executable(CPPCS
-        src/openMP/01_HelloWorld.cpp)
+        src/openMP/02_Integral.cpp)
